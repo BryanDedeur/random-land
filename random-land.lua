@@ -1,6 +1,6 @@
 --------------------------- RANDOM LAND GENERATOR ---------------------------------------------------------------
-Author Bryan Dedeurwaerder
-Created 12/31/2018
+-- Author Bryan Dedeurwaerder
+-- Created 12/31/2018
 
 local layerHeight = 4
 local minlength = 12
