@@ -1,6 +1,6 @@
 # Random Land Generator
 
-![Alt text](random-mountains.png?raw=true "Random Land Example")
+![Alt text](random-mountains.PNG?raw=true "Random Land Example")
 
 generates random land within a region of space
 
